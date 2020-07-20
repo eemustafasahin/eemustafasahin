@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mustafa.
 #### Am I the only one who is excited about software developer? Of course not!
-![Am I the only one who is excited about software developer? Of course not!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Am I the only one who is excited about software developer? Of course not!](https://github.com/eemustafasahin/images/blob/master/Java_logo_icon.png)
 
 I am interested in coding, designing and developing software especially in Java language. 
 
