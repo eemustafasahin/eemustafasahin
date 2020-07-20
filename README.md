@@ -10,4 +10,4 @@ Skills: JAVA / C / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/eemustafasahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eemustafasahin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mustafashn14)  
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=eemustafasahin&show_icons=true)![Profile views](https://gpvc.arturio.dev/eemustafasahin)  
+![Github stats](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)  
