@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Mustafa.
-#### Am I the only one who is excited about software developer? Of course not!
+#### Am I the only one who is excited about software development? Of course not!
 ![Am I the only one who is excited about software developer? Of course not!](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500027/102146167-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 
 I am interested in coding, designing and developing software especially in Java language. 
